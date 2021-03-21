@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Henry
-- 👀 I’m interested in developing my coding skills
 - 🌱 I’m currently learning Python and SQL
 - 📫 Reach me on LinkedIn
 
